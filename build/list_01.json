@@ -1,0 +1,45 @@
+{
+	"Image API": {
+    "link": "http://iiif.io/api/image/",
+    "added": "",
+    "checked": "",
+    "categories": "standards",
+		"comment": "Specifies a web service that returns an image in response to a standard HTTP or HTTPS request.",
+    },
+	"Presentation API": {
+    "link": "http://iiif.io/api/presentation/",
+    "added": "",
+    "checked": "",
+    "categories": "standards",
+		"comment": "Provides the information necessary to allow a rich, online viewing environment for primarily image-based objects to be presented to a human user, likely in conjunction with the IIIF Image API.",
+    },
+	"Content Search API": {
+    "link": "http://iiif.io/api/search/",
+    "added": "",
+    "checked": "",
+    "categories": "standards",
+		"comment": "Specifies interoperability mechanism for searching within annotations.",
+    },
+	"Authentication API": {
+    "link": "http://iiif.io/api/auth/",
+    "added": "",
+    "checked": "",
+    "categories": "standards",
+		"comment": "Describes a set of workflows for guiding the user through an existing access control system.",
+    },
+	"External Services API Annex": {
+    "link": "http://iiif.io/api/annex/services/",
+    "added": "",
+    "checked": "",
+    "categories": "standards",
+		"comment": "Describes the set of related services that have been identified as useful to reference from the IIIF APIs.",
+    },
+	"API Annex Documents": {
+    "link": "http://iiif.io/api/annex/",
+    "added": "",
+    "checked": "",
+    "categories": "standards",
+		"comment": "List of all API annex documents and API implementation notes.",
+    }
+}	
+

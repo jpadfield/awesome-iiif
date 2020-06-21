@@ -1,0 +1,22 @@
+	{
+		"metaDescription": "An awesome list of resources relating to the  International Image Interoperability Framework: A community driven image framework with well defined APIs for making the world’s image repositories interoperable and accessible",
+		"metaKeywords": "Image, Web, Standard, IIIF, Community, Research, Heritage, Culture, JSON, PHP, Javascript, Github Pages, Dissemination",
+		"metaAuthor": "IIIF|  iiif-discuss@googlegroups.com",
+		"metaTitle": "IIIF | International Image Interoperability Framework",
+		"metaFavIcon": "graphics/favicon.ico",
+		"logo_link": "./",
+		"licence": "<a href='http://rightsstatements.org/vocab/InC-EDU/1.0/'><img height='16' alt='In Copyright - Educational Use Permitted' title='In Copyright - Educational Use Permitted' src='graphics/InC-EDU.dark-white-interior-blue-type.png'/></a><a rel='license' href='https://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons Licence' style='border-width:0' src='https://i.creativecommons.org/l/by-nc/4.0/88x31.png' /></a>",
+		"logo_path": "graphics/github-iiif.png",
+		"footer": "",
+		"extra_logos": {
+			"github": {
+				"link": "https://github.com/jpadfield/awesome-iiif",
+				"logo": "graphics/github logo white.png",
+				"alt": "GitHub Jpadfield IIIF Awesome"
+			}
+		},
+		"extra_js_scripts": [],
+		"extra_css_scripts": [],
+		"extra_css": "",
+		"extra_js": ""
+	}
