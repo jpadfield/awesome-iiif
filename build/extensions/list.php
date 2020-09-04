@@ -3,12 +3,14 @@
 $extensionList["list"] = "extensionCards";
 $blank = array("groups" => array(), "ptitle" => "",
 		"stitle" => "",  "comment" => "", "image" => "", "link" => "");
+$defaultcard = "list";
+$displaychecked = true;
 		
 // Still to do an optional table of contents for groups - model on https://github.com/IIIF/awesome-iiif
 
 function buildContents ($groups)
 	{
-	$html = "<ul>";
+	$html = "<h3>Contents</h3><ul>";
 
 	foreach ($groups as $gnm => $ga)
 		{$tag = urlencode(strtolower($gnm));
@@ -21,49 +23,39 @@ function buildContents ($groups)
 	return ($html);
 	}
 
-/*
-
-<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>
-* 
- <h2><a id="user-content-standards" class="anchor" aria-hidden="true" href="#standards"></a>Standards</h2>
- 
- */
-	
 function extensionCards ($d, $pd)
   {
-	global $blank;
+	global $blank, $defaultcard, $displaychecked ;
   $gcontent = "";
 		
 	if (isset($d["file"]) and file_exists($d["file"]))
 		{
 		$dets = getRemoteJsonDetails($d["file"], false, true);
 
-		//prg(0, $dets["groups"]);
+    if (isset($dets["defaultcard"]))
+      {$defaultcard = $dets["defaultcard"];}
+      
+    if (isset($dets["displaychecked"]))
+      {$displaychecked = $dets["displaychecked"];}      
 		
 		foreach ($dets["list"] as $lno => $la)
 			{
-			//ensure each of the currently required fields a re present.
+			//ensure each of the currently required fields are present.
 			$la = array_merge($blank, $la);
-
-			// Testing
-			//$la["comment"] = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.";
-
-			//if (!$la["groups"])
-			//	{prg(1, $la);}
 			
 			foreach ($la["groups"] as $k => $gnm)
-					{
-					$c = false;
+					{            
+					/*$c = false;
 					if (preg_match("/^Digital.+$/", $gnm, $m))
 						{$c = true;
 							echo "CCCCCCCCCCCCCCCCC\n"; prg(0, $gnm);}
 					else
-						{echo "@@@".$gnm."@@@\n";}
+						{echo "@@@".$gnm."@@@\n";}*/
 										
 					if (!isset($dets["groups"] [$gnm] ))
 						{$dets["groups"] [$gnm]  = array(
 							"comment" => "",
-							"card" => "list",
+							"card" => $defaultcard,
 							"config" => array(),
 							);}
 														
@@ -76,12 +68,12 @@ function extensionCards ($d, $pd)
 						{$cfn = "build".ucfirst($dets["groups"] [$gnm] ["card"])."Card";}
 					
 					if (!isset($dets["groups"] [$gnm] ["html"]))
-						{echo "########$gnm###############\n";
+						{//echo "########$gnm###############\n";
 							$dets["groups"] [$gnm] ["html"] = startGroupHtml (
 							$gnm, $dets["groups"] [$gnm] ["comment"],
 							$dets["groups"] [$gnm] ["card"], $dets["tableofcontents"]);
 
-							if ($c) {prg(0, $dets["groups"] [$gnm] );}
+							//if ($c) {prg(0, $dets["groups"] [$gnm] );}
 			
 						}
 						
@@ -89,11 +81,29 @@ function extensionCards ($d, $pd)
 					}
 			}
 
+    // organise children
+		foreach ($dets["groups"] as $gnm => $ga)
+				{
+        $pc = explode ("|", $gnm);
+
+        if (count($pc) > 1)
+          {
+          if (in_array($dets["groups"] [$gnm] ["card"], array("list")))
+            {$dets["groups"] [trim($pc[0])] ["html"] .=
+                "</ul><br/>".$dets["groups"] [$gnm] ["html"] ;}
+          else
+            {$dets["groups"] [trim($pc[0])] ["html"] .=
+                "</div><br/>".$dets["groups"] [$gnm] ["html"] ;}
+
+          unset($dets["groups"] [$gnm]);
+          }
+        }
+        
 		foreach ($dets["groups"] as $gnm => $ga)
 				{
 				if (!isset($ga["html"]))
-					{prg(0, $gnm);
-					 prg(0, $dets["groups"][$gnm]);}
+					{/*prg(0, $gnm);
+					 prg(0, $dets["groups"][$gnm]);*/}
 				 if (in_array($dets["groups"] [$gnm] ["card"], array("list")))
 					{$gcontent .= $ga ["html"]."</ul><br/>";}
 				else
@@ -241,6 +251,8 @@ END;
 		}
 
  function buildListCard ($la) {
+   	global $displaychecked ;
+    
 	 	if ($la["link"])
 				{$ltop= "<a href=\"$la[link]\" class=\"\">";
 					$lbottom = "</a>"	;}
@@ -250,10 +262,20 @@ END;
 
 		if ($la["comment"])
 			{$la["comment"] = " - ".$la["comment"];}
+
+    if ($displaychecked )
+      {
+      if (isset($la["checked"]) and $la["checked"])
+        {$checked = "<span style=\"font-size:0.75em\">  ( last checked ".$la["checked"]." )</span>";}
+      else
+        {$checked = "<spanstyle=\"font-size:0.75em\">  ( no checked date )</span>";}
+      }
+    else
+      {$checked = "";}
 				
 		ob_start();			
 		echo <<<END
-<li>$ltop$la[ptitle]$lbottom$la[comment]</li>
+<li>$ltop$la[ptitle]$lbottom$la[comment]$checked</li>
 END;
 		$html = ob_get_contents();
 		ob_end_clean(); // Don't send output to client
@@ -264,7 +286,15 @@ END;
 function startGroupHtml ($gnm, $comment, $card, $tbc)
 	{
 	$html = "";
-	$tag = urlencode(strtolower($gnm));
+  $tag = urlencode(strtolower($gnm));
+  $hno = 3;
+  
+  $pc = explode ("|", $gnm);
+  
+  if (count($pc) > 1)
+    {$tbc = false;
+     $gnm = $pc[1];
+     $hno = 4;}  
 
 	if ($tbc)
 		{$anchor = "<a id=\"$tag\" class=\"anchor offsetanchor\" ".
@@ -275,7 +305,7 @@ function startGroupHtml ($gnm, $comment, $card, $tbc)
 		{$anchor = "";
 		 $alink = "$gnm";}
 
-	$gtop = "<h3>$anchor$alink</h3><p>".$comment."</p>";
+	$gtop = "<h${hno}>$anchor$alink</h${hno}><p>".$comment."</p>";
 
 	if (in_array($card, array("image")))
 		{$html  = "$gtop<div class=\"row row-cols-1 ".
