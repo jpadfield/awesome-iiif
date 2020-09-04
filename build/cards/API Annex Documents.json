@@ -2,7 +2,7 @@
 			"groups": ["Standards"],
 			"ptitle": "API Annex Documents",
 			"stitle": "",
-			"comment": "@@Testing Rebuild@@ List of all API annex documents and API implementation notes.",
+			"comment": "List of all API annex documents and API implementation notes.",
 			"image": "",
       "checked": "",
 			"link": "http://iiif.io/api/annex/"
