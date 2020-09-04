@@ -1,0 +1,9 @@
+			{
+			"groups": ["Examples"],
+			"ptitle": "Digital Collections iiif of the Bavarian State Library",
+			"stitle": "",
+			"comment": "provides access to the digitized objects of the Bavarian State Library utilizing the IIIF-APIs and Mirador",
+			"image": "",
+      "checked": "",
+			"link": "https://app.digitale-sammlungen.de/bookshelf/?language=en"
+			}

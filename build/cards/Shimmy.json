@@ -1,0 +1,9 @@
+			{
+			"groups": ["Presentation API Shims"],
+			"ptitle": "Shimmy",
+			"stitle": "",
+			"comment": "Ruby gem designed to help you build shims for the IIIF Presentation API, and has samples for NYPL, Flickr, and the US National Archives.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/mejackreed/shimmy"
+			}

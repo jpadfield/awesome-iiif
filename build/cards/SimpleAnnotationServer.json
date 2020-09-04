@@ -1,0 +1,9 @@
+			{
+			"groups": ["Annotations|Annotation Servers"],
+			"ptitle": "SimpleAnnotationServer",
+			"stitle": "",
+			"comment": "Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/glenrobson/SimpleAnnotationServer"
+			}

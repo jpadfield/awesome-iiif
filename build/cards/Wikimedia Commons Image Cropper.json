@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Tools"],
+			"ptitle": "Wikimedia Commons Image Cropper",
+			"stitle": "",
+			"comment": "Create IIIF image regions from image files at Wikimedia Commons.",
+			"image": "",
+      "checked": "",
+			"link": "http://zone47.com/crotos/lab/cropper/"
+			}

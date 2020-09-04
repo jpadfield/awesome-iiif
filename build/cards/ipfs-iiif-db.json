@@ -1,0 +1,9 @@
+			{
+			"groups": ["Annotations|Annotation Servers"],
+			"ptitle": "ipfs-iiif-db",
+			"stitle": "",
+			"comment": "IIIF annotations JS client over IPFS.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/pgte/ipfs-iiif-db"
+			}

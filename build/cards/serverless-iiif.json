@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Servers"],
+			"ptitle": "serverless-iiif",
+			"stitle": "",
+			"comment": "IIIF Image API 2.1 server as an AWS Serverless Application.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/nulib/serverless-iiif"
+			}

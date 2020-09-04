@@ -1,0 +1,9 @@
+			{
+			"groups": ["Discovery"],
+			"ptitle": "Europeana's IIIF filtered search",
+			"stitle": "",
+			"comment": "Europeana provides a filter to identify all IIIF-enabled resources in its collections.",
+			"image": "",
+      "checked": "",
+			"link": "https://www.europeana.eu/portal/en/search?q=provider_aggregation_edm_isShownBy%3A*iiif*&view=grid"
+			}

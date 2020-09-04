@@ -1,0 +1,9 @@
+			{
+			"groups": ["Annotations|Annotation Servers"],
+			"ptitle": "MangoServer",
+			"stitle": "",
+			"comment": "Mongo-backed annotation server written in Python.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/azaroth42/MangoServer"
+			}

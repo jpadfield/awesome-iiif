@@ -1,0 +1,9 @@
+			{
+			"groups": ["Examples"],
+			"ptitle": "e-codices",
+			"stitle": "",
+			"comment": "provides access to 1,700+ Swiss medieval manuscripts (ca. 500,000 high-res images) via IIIF. The IIIF manifest link for individual manuscripts can be found on the overview page of each manuscript (see <a href='http://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0857'>example</a>). IIIF collection of collections with links to all manifests here: <a href='<http://www.e-codices.unifr.ch/metadata/iiif/collection.json>.'><http://www.e-codices.unifr.ch/metadata/iiif/collection.json>.</a>",
+			"image": "",
+      "checked": "",
+			"link": "http://www.e-codices.unifr.ch"
+			}

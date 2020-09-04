@@ -1,0 +1,9 @@
+			{
+			"groups": ["Tutorials"],
+			"ptitle": "Archiviiify",
+			"stitle": "",
+			"comment": "A short guide to download digitized books from Internet Archive and rehost on your own infrastructure using IIIF with full-text search [from raffaele messuti / <a href='https://github.com/atomotic'>@atomotic</a>].",
+			"image": "",
+      "checked": "",
+			"link": "https://literarymachin.es/archiviiify/"
+			}

@@ -1,0 +1,9 @@
+			{
+			"groups": ["Presentation Manifest Tools"],
+			"ptitle": "Manifest Editor",
+			"stitle": "",
+			"comment": "Web application for importing, viewing, updating, and exporting manifests. See a <a href='https://digital.bodleian.ox.ac.uk/manifest-editor/'>demo</a>.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/bodleian/iiif-manifest-editor"
+			}

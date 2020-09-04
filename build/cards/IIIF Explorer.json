@@ -1,0 +1,9 @@
+			{
+			"groups": ["Discovery"],
+			"ptitle": "IIIF Explorer",
+			"stitle": "",
+			"comment": "OCLC's IIIF Explorer is a prototype application that searches across images (all IIIF-enabled) in the CONTENTdm digital content management systems hosted by OCLC.",
+			"image": "",
+      "checked": "",
+			"link": "https://researchworks.oclc.org/iiif-explorer/"
+			}

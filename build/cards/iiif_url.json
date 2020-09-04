@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image API Libraries"],
+			"ptitle": "iiif_url",
+			"stitle": "",
+			"comment": "Ruby library for creating and parsing IIIF Image API URLs.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/NCSU-Libraries/iiif_url"
+			}

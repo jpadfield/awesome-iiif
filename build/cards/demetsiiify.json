@@ -1,0 +1,9 @@
+			{
+			"groups": ["Presentation Manifest Tools"],
+			"ptitle": "demetsiiify",
+			"stitle": "",
+			"comment": "Web service for creating IIIF manifests from METS/MODS documents.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/jbaiter/demetsiiify"
+			}

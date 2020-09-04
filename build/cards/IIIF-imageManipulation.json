@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Tools"],
+			"ptitle": "IIIF-imageManipulation",
+			"stitle": "",
+			"comment": "UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/jbhoward-dublin/iiif-imageManipulation"
+			}

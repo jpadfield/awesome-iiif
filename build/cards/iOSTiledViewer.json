@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image API Libraries"],
+			"ptitle": "iOSTiledViewer",
+			"stitle": "",
+			"comment": "IIIF image API and Zoomify viewer for iOS, written in Swift.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/moravianlibrary/iOSTiledViewer"
+			}

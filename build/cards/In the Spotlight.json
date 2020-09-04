@@ -1,0 +1,9 @@
+			{
+			"groups": ["Annotations"],
+			"ptitle": "In the Spotlight",
+			"stitle": "",
+			"comment": "Crowdsourced contributions are serialised according to the <a href='https://www.w3.org/TR/annotation-model/'>Web Annotations Data Model</a>.",
+			"image": "",
+      "checked": "",
+			"link": "http://playbills.libcrowds.com/"
+			}

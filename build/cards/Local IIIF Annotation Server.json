@@ -1,0 +1,9 @@
+			{
+			"groups": ["Annotations|Annotation Servers"],
+			"ptitle": "Local IIIF Annotation Server",
+			"stitle": "",
+			"comment": "Jekyll front end, Flask backend, equipped with Vagrant Box that provides a Mirador viewer for creating and save annotations into Jekyll site. Annotations are sharable by using GitHub pages with Jekyll front end.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/dnoneill/annotate"
+			}

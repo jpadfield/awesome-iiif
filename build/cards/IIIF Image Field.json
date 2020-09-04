@@ -1,0 +1,9 @@
+			{
+			"groups": ["CMS Integration"],
+			"ptitle": "IIIF Image Field",
+			"stitle": "",
+			"comment": "Drupal 7 module that provides an easy way to add IIIF Images to content types, and configure their display. Supports Image API versions 1.0 or 2.0.",
+			"image": "",
+      "checked": "",
+			"link": "https://www.drupal.org/sandbox/sdellis/2421047"
+			}

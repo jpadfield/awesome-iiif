@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Servers"],
+			"ptitle": "IIPImage Server",
+			"stitle": "",
+			"comment": "High performance image server.",
+			"image": "",
+      "checked": "",
+			"link": "http://iipimage.sourceforge.net/documentation/server/"
+			}

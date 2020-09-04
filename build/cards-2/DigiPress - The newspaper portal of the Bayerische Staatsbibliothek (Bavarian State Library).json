@@ -1,0 +1,9 @@
+			{
+			"groups": ["Examples"],
+			"ptitle": "DigiPress - The newspaper portal of the Bayerische Staatsbibliothek (Bavarian State Library)",
+			"stitle": "",
+			"comment": "now supports IIIF - see a <a href='https://digipress.digitale-sammlungen.de/view/bsb00012484_00382_u001/1'>sample issue</a>, <a href='https://api.digitale-sammlungen.de/iiif/presentation/bsb00012484/view.html'>sample collection</a>, and <a href='https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00012484/manifest'>collection manifest</a>.",
+			"image": "",
+      "checked": "",
+			"link": "https://digipress.digitale-sammlungen.de/"
+			}

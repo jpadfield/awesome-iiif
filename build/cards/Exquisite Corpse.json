@@ -1,0 +1,9 @@
+			{
+			"groups": ["Experiments and Fun"],
+			"ptitle": "Exquisite Corpse",
+			"stitle": "",
+			"comment": "A prototype that deliberately mixes up portrait paintings. Created using Node.js by Jeff Steward, Harvard Art Museums.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/harvardartmuseums/exquisite-iiif-demo"
+			}

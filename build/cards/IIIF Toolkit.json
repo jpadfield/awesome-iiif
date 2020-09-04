@@ -1,0 +1,9 @@
+			{
+			"groups": ["CMS Integration"],
+			"ptitle": "IIIF Toolkit",
+			"stitle": "",
+			"comment": "IIIF Toolkit by University of Toronto Libraries is a plugin for Omeka Classic (2.3+) that integrates Mirador with a built-in annotator, a manifest generator, Simple Pages shortcodes and Exhibit Builder blocks for a rich presentation experience.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/utlib/IiifItems"
+			}

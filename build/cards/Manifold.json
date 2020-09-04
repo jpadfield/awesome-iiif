@@ -1,0 +1,9 @@
+			{
+			"groups": ["Presentation API Libraries"],
+			"ptitle": "Manifold",
+			"stitle": "",
+			"comment": "Wraps Manifesto to provide viewer state and related utilities.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/UniversalViewer/manifold"
+			}

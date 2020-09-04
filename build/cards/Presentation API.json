@@ -1,0 +1,9 @@
+			{
+			"groups": ["Standards"],
+			"ptitle": "Presentation API",
+			"stitle": "",
+			"comment": "Provides the information necessary to allow a rich, online viewing environment for primarily image-based objects to be presented to a human user, likely in conjunction with the IIIF Image API.",
+			"image": "",
+      "checked": "",
+			"link": "http://iiif.io/api/presentation/"
+			}

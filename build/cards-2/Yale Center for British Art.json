@@ -1,0 +1,9 @@
+			{
+			"groups": ["Examples"],
+			"ptitle": "Yale Center for British Art",
+			"stitle": "",
+			"comment": "provides at least 80,000 images via the IIIF Image and Presentation APIs, using the Cantaloupe IIIF Server. See example <a href='http://collections.britishart.yale.edu/vufind/Record/1669236'>item record</a>, <a href='http://manifests.britishart.yale.edu/collection/top'>top-level collection manifest</a>, and <a href='http://manifests.britishart.yale.edu/manifest/5005'>example IIIF Presentation API manifest</a>.",
+			"image": "",
+      "checked": "",
+			"link": "http://britishart.yale.edu/"
+			}

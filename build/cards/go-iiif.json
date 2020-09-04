@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Servers"],
+			"ptitle": "go-iiif",
+			"stitle": "",
+			"comment": "IIIF server written in go (fork of <a href='https://github.com/greut/iiif'>greut/iiif</a>).",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/thisisaaronland/go-iiif"
+			}

@@ -1,0 +1,9 @@
+			{
+			"groups": ["Standards"],
+			"ptitle": "External Services API Annex",
+			"stitle": "",
+			"comment": "Describes the set of related services that have been identified as useful to reference from the IIIF APIs.",
+			"image": "",
+      "checked": "",
+			"link": "http://iiif.io/api/annex/services/"
+			}

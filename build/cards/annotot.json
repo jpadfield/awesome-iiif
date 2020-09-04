@@ -1,0 +1,9 @@
+			{
+			"groups": ["Annotations|Annotation Servers"],
+			"ptitle": "annotot",
+			"stitle": "",
+			"comment": "Simple IIIF annotations mounted in a Ruby on Rails applications.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/mejackreed/annotot"
+			}

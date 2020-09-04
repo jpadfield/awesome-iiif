@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Tools"],
+			"ptitle": "OpenSeadragon Cropping Tool",
+			"stitle": "",
+			"comment": "Script to allow for cropping an image from within OpenSeadragon.",
+			"image": "",
+      "checked": "",
+			"link": "http://sul-dlss.github.io/iiif-cropper/demo/"
+			}

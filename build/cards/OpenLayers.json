@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Viewers"],
+			"ptitle": "OpenLayers",
+			"stitle": "",
+			"comment": "High-performance, feature-packed Javascript library especially built for maps. It supports the IIIF Image API 2.1.",
+			"image": "",
+      "checked": "",
+			"link": "https://openlayers.org"
+			}

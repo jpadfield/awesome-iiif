@@ -1,0 +1,243 @@
+			{
+			"groups": ["Examples"],
+			"ptitle": "Historical State Search",
+			"stitle": "",
+			"comment": "displays images via a IIIF image server.",
+			"image": "",
+      "checked": "",
+			"link": "http://historicalstate.lib.ncsu.edu/search"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "FromThePage",
+			"stitle": "",
+			"comment": "ingests IIIF manifests and displays images for transcription using OpenSeaDragon.",
+			"image": "",
+      "checked": "",
+			"link": "http://www.fromthepage.com"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "SAT Taishōzō Image DB",
+			"stitle": "",
+			"comment": "by the SAT Daizōkyō Text Database Committee in the DH initiative, the University of Tokyo adopts the IIIF Image and Presentation APIs including over 4,000 annotations displayed on Mirador.",
+			"image": "",
+      "checked": "",
+			"link": "http://dzkimgs.l.u-tokyo.ac.jp/SATi/images.php?alang=en"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "e-codices",
+			"stitle": "",
+			"comment": "provides access to 1,700+ Swiss medieval manuscripts (ca. 500,000 high-res images) via IIIF. The IIIF manifest link for individual manuscripts can be found on the overview page of each manuscript (see <a href='http://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0857'>example</a>). IIIF collection of collections with links to all manifests here: <a href='<http://www.e-codices.unifr.ch/metadata/iiif/collection.json>.'><http://www.e-codices.unifr.ch/metadata/iiif/collection.json>.</a>",
+			"image": "",
+      "checked": "",
+			"link": "http://www.e-codices.unifr.ch"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "Gallica",
+			"stitle": "",
+			"comment": "is the digital library of the Bibliothèque nationale de France (BnF), providing access to millions of documents (newspapers and journals, maps, printed books, manuscripts, scores etc.). It implements the Image API and the Presentation API. <a href='http://doc.biblissima-condorcet.fr/entrepots-iiif-biblissima'>More technical details</a> about the IIIF endpoints (images and manifests).",
+			"image": "",
+      "checked": "",
+			"link": "http://gallica.bnf.fr/"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "Biblissima reconstituted manuscript demo",
+			"stitle": "",
+			"comment": "presents a manuscript where illuminations had been cut out and then allows for reconstituting the manuscript by placing those images back into place.",
+			"image": "",
+      "checked": "",
+			"link": "http://demos.biblissima-condorcet.fr/chateauroux/osd-demo/"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "NCSU Libraries Rare and Unique Digital Collections",
+			"stitle": "",
+			"comment": "implements the Image, Presentation, and Content Search APIs.",
+			"image": "",
+      "checked": "",
+			"link": "https://d.lib.ncsu.edu/collections/"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "DigiVatLib",
+			"stitle": "",
+			"comment": "provides access to digitized collections from the Vatican.",
+			"image": "",
+      "checked": "",
+			"link": "http://digi.vatlib.it/"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "Georeferencer",
+			"stitle": "",
+			"comment": "can take maps accessible via IIIF and referenced to modern maps.",
+			"image": "",
+      "checked": "",
+			"link": "http://www.georeferencer.com/"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "hocrviewer",
+			"stitle": "",
+			"comment": "can display and search OCRed documents in the <a href='http://kba.github.io/hocr-spec/1.2/'>hOCR format</a> with Mirador. Contains a simple implementation of the Content Search API with SQLite.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/jbaiter/hocrviewer-mirador"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "The SCTA Reading Room",
+			"stitle": "",
+			"comment": "A site for reading, viewing, and studying the scholastic tradition.",
+			"image": "",
+      "checked": "",
+			"link": "http://scta.lombardpress.org/"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "Yale Center for British Art",
+			"stitle": "",
+			"comment": "provides at least 80,000 images via the IIIF Image and Presentation APIs, using the Cantaloupe IIIF Server. See example <a href='http://collections.britishart.yale.edu/vufind/Record/1669236'>item record</a>, <a href='http://manifests.britishart.yale.edu/collection/top'>top-level collection manifest</a>, and <a href='http://manifests.britishart.yale.edu/manifest/5005'>example IIIF Presentation API manifest</a>.",
+			"image": "",
+      "checked": "",
+			"link": "http://britishart.yale.edu/"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "Harvard Art Museums",
+			"stitle": "",
+			"comment": "serves over 200,000 images via the IIIF Image and Presentation APIs, using Mirador. See <a href='http://www.harvardartmuseums.org/tour/drawing-the-invention-of-a-modern-medium/slide/8568'>example item</a> and <a href='http://iiif.harvardartmuseums.org/manifests/object/299843'>example manifest</a>.",
+			"image": "",
+      "checked": "",
+			"link": "http://www.harvardartmuseums.org/"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "Carnegie Museum of Art",
+			"stitle": "",
+			"comment": "utilizes the IIIF Image API level 0 for static files, with links to manifests provided on object pages, using an OpenSeadragon client and Amazon S3 to store images. See example <a href='https://cmoa-records-images.s3.amazonaws.com/collection/top.json'>collection manifest</a> and <a href='http://cmoa-records-images.s3.amazonaws.com/fv001_001_003_001_B014_F05_002/manifest.json'>object manifest</a>, as well as <a href='https://github.com/cmoa/iiif_s3'>implementation code documentation</a>.",
+			"image": "",
+      "checked": "",
+			"link": "http://cmoa.org/about/"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "The Frick Collection",
+			"stitle": "",
+			"comment": "allows users to compare multiple images in Mirador.",
+			"image": "",
+      "checked": "",
+			"link": "http://digitalcollections.frick.org/digico/#/"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "DigiPress - The newspaper portal of the Bayerische Staatsbibliothek (Bavarian State Library)",
+			"stitle": "",
+			"comment": "now supports IIIF - see a <a href='https://digipress.digitale-sammlungen.de/view/bsb00012484_00382_u001/1'>sample issue</a>, <a href='https://api.digitale-sammlungen.de/iiif/presentation/bsb00012484/view.html'>sample collection</a>, and <a href='https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00012484/manifest'>collection manifest</a>.",
+			"image": "",
+      "checked": "",
+			"link": "https://digipress.digitale-sammlungen.de/"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "Beyond Words: Illuminating Manuscripts in Boston Collections",
+			"stitle": "",
+			"comment": "multi-institutional collaboration using annotated IIIF manifests and Mirador (see <a href='http://beyondwords2016.org/objects/leaves-from-an-antiphonal-and-a-gradual'>example</a>).",
+			"image": "",
+      "checked": "",
+			"link": "http://beyondwords2016.org/"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "The Wolsey Manuscripts",
+			"stitle": "",
+			"comment": "using reunification functionality and Mirador.",
+			"image": "",
+      "checked": "",
+			"link": "http://www.wolseymanuscripts.ac.uk/manuscripts"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "Cuban Digital Collections",
+			"stitle": "",
+			"comment": "A collaboration project between cuban libraries to publish digital collections of cultural heritage works using IIIF standards. ",
+			"image": "",
+      "checked": "",
+			"link": "http://iiif.sld.cu/"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "DIGITAL EAST ASIA COLLECTIONS of the Bavarian State Library",
+			"stitle": "",
+			"comment": "provides digitized versions of Chinese, Japanese and Korean printings and manuscripts (dating back to the 7th – 19th century) which are held by the Bavarian State Library (BSB)",
+			"image": "",
+      "checked": "",
+			"link": "https://ostasien.digitale-sammlungen.de/?locale=en"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "Digital Collections iiif of the Bavarian State Library",
+			"stitle": "",
+			"comment": "provides access to the digitized objects of the Bavarian State Library utilizing the IIIF-APIs and Mirador",
+			"image": "",
+      "checked": "",
+			"link": "https://app.digitale-sammlungen.de/bookshelf/?language=en"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "University of Illinois at Urbana-Champaign Library",
+			"stitle": "",
+			"comment": "uses IIIF and UniversalViewer for presenting their image collections on their Digital Collections website. IIIF manifest.json and info.json are provided under the button \"View\" on the viewer's page (top right).",
+			"image": "",
+      "checked": "",
+			"link": "https://digital.library.illinois.edu/items?fq%5B%5D=primary_media_category%3A0"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "vHMML",
+			"stitle": "",
+			"comment": "provides access to <a href='http://hmml.org/'>The Hill Museum & Manuscript Library's</a> (HMML) digital and microfilm collections. vHMML uses Mirador and the digilib IIIF image server.",
+			"image": "",
+      "checked": "",
+			"link": "https://www.vhmml.org"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "Digital Bodleian",
+			"stitle": "",
+			"comment": "The Bodleian Libraries' digital collections, with links to IIIF manifests.",
+			"image": "",
+      "checked": "",
+			"link": "https://digital.bodleian.ox.ac.uk"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "DigitalGeorgetown's Integration of Universal Viewer into DSpace",
+			"stitle": "",
+			"comment": "The Georgetown University Library digitized the _Alliance for Progress Cartoon Book Program in Latin America Collection_ and made this collection available in the Universal Viewer integrated into DSpace.  This collection illustrates manifest ranges generated from item metadata.",
+			"image": "",
+      "checked": "",
+			"link": "https://repository.library.georgetown.edu/handle/10822/1044538#?m=7"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "Austrian National Library",
+			"stitle": "",
+			"comment": "provides over 850,000 IIIF resources of historical books, newspapers, postcards, pamphlets and papyri with annotations and search(soon) capabilities. Embedded Mirador and Universal Viewer can be used to view the resources. There is also the possibility to create personalized IIIF collections.",
+			"image": "",
+      "checked": "",
+			"link": "https://iiif.onb.ac.at"
+			},
+			{
+			"groups": ["Examples"],
+			"ptitle": "Art Institute of Chicago",
+			"stitle": "",
+			"comment": "presents over 100,000 artworks on the website via the IIIF image API. Using OpenSeadragon, users can zoom in and explore object images, subject to copyright restrictions. A custom Mirador 2 implementation is also used in the galleries.",
+			"image": "",
+      "checked": "",
+			"link": "https://www.artic.edu/"
+			}

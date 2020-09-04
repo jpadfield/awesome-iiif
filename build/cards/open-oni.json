@@ -1,0 +1,9 @@
+			{
+			"groups": ["Newspapers"],
+			"ptitle": "open-oni",
+			"stitle": "",
+			"comment": "Friendly fork of <a href='https://github.com/libraryofcongress/chronam'>chronam</a> which is a webapp for viewing National Digital Newspaper Program data from the Library of Congress.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/open-oni/open-oni"
+			}

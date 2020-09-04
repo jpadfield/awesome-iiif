@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Viewers"],
+			"ptitle": "CanvasPanel",
+			"stitle": "",
+			"comment": "React library to build IIIF Presentation 3 level viewing experiences including support for annotations.",
+			"image": "",
+      "checked": "",
+			"link": "http://canvas-panel.netlify.com/"
+			}

@@ -1,0 +1,9 @@
+			{
+			"groups": ["Examples"],
+			"ptitle": "University of Illinois at Urbana-Champaign Library",
+			"stitle": "",
+			"comment": "uses IIIF and UniversalViewer for presenting their image collections on their Digital Collections website. IIIF manifest.json and info.json are provided under the button \"View\" on the viewer's page (top right).",
+			"image": "",
+      "checked": "",
+			"link": "https://digital.library.illinois.edu/items?fq%5B%5D=primary_media_category%3A0"
+			}

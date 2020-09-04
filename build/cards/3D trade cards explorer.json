@@ -1,0 +1,9 @@
+			{
+			"groups": ["Experiments and Fun"],
+			"ptitle": "3D trade cards explorer",
+			"stitle": "",
+			"comment": "A 3D environment that displays nineteenth-century trade cards from the <a href='https://www.digitalcommonwealth.org/collections/commonwealth:gq67jz045'>Boston Public Library</a>. Designed to be viewed on a mobile phone, ideally with Google Cardboard. Created using three.js by Jon White, Cogapp.",
+			"image": "",
+      "checked": "",
+			"link": "http://labs.cogapp.com/tc/"
+			}

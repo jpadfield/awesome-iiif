@@ -1,0 +1,9 @@
+			{
+			"groups": ["Standards"],
+			"ptitle": "Content Search API",
+			"stitle": "",
+			"comment": "Specifies interoperability mechanism for searching within annotations.",
+			"image": "",
+      "checked": "",
+			"link": "http://iiif.io/api/search/"
+			}

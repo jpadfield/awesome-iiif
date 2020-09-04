@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Viewers"],
+			"ptitle": "Tify",
+			"stitle": "",
+			"comment": "Slim and fast IIIF document viewer built with Vue.js.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/subugoe/tify"
+			}

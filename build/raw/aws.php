@@ -1,12 +1,30 @@
 <?php
 
-$aws = file ("./raw_awsome.txt");
+//$aws = file ("./raw_awsome.txt");
+//$myfile = fopen("awsome.json", "w");
+//$outDir = "cards";
+
+$aws = file ("./raw_impl.txt");
+$myfile = fopen("impl.json", "w");
+$outDir = "cards-2";
+
+//$aws = file ("./raw_read.txt");
+//$myfile = fopen("read.json", "w");
+//$outDir = "cards-3";
+
 $parent = false;
 $current = false;
 $grp = false;
 $list = array();
 $mn = 1;
-$myfile = fopen("awsome.json", "w");
+
+if (!is_dir($outDir))
+  {mkdir ($outDir);}
+
+// Remove previous files
+$files = glob($outDir."/*.json");
+foreach ($files as $file)
+	{unlink ($file);}
 
 foreach ($aws as $k => $line)
 	{
@@ -47,12 +65,19 @@ foreach ($aws as $k => $line)
 			"stitle": "",
 			"comment": "$m[3]",
 			"image": "",
+      "checked": "",
 			"link": "$m[2]"
 			}
 END;
-    $list[] = ob_get_contents();
+    $thisList = ob_get_contents();
 		ob_end_clean(); // Don't send output to client
-		
+
+    $list[] = $thisList;
+
+    $thisPath = $outDir."/".$m[1].".json";
+    $thisFile = fopen($thisPath, "w");
+    fwrite($thisFile, $thisList);
+    fclose($thisFile);		
 		}
 	else if (preg_match("/^[-][ ]*(.+)[\s]*$/", $line, $m))
 		{echo "[$mn] MISSED - $line\n";

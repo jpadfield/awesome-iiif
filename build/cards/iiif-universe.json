@@ -1,0 +1,9 @@
+			{
+			"groups": ["Discovery"],
+			"ptitle": "iiif-universe",
+			"stitle": "",
+			"comment": "Repository that includes links to known IIIF presentation manifest collections.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/ryanfb/iiif-universe"
+			}

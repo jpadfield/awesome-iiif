@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Servers"],
+			"ptitle": "SIPI",
+			"stitle": "",
+			"comment": "IIIFv2 image server written in C++.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/dhlab-basel/Sipi"
+			}

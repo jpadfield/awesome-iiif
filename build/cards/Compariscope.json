@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Tools"],
+			"ptitle": "Compariscope",
+			"stitle": "",
+			"comment": "A demo app by the Victoria & Albert useful for the alignment of overlayed images, served by the IIIF Image API, and providing an interactive viewer for overlayed images, presented fluidly, using responsive image tags.",
+			"image": "",
+      "checked": "",
+			"link": "https://vanda.github.io/iiif-features/"
+			}

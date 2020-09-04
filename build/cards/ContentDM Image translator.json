@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Server Shims"],
+			"ptitle": "ContentDM Image translator",
+			"stitle": "",
+			"comment": "Makes ContentDM images available through IIIF. Python.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/azaroth42/pi3f/tree/master/shims/ContentDM"
+			}

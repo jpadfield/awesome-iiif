@@ -1,0 +1,9 @@
+			{
+			"groups": ["CMS Integration"],
+			"ptitle": "Mirador Viewer Omeka S Module",
+			"stitle": "",
+			"comment": "Omeka S module that integrates the Mirador image viewer.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/Daniel-KM/Omeka-S-module-Mirador"
+			}

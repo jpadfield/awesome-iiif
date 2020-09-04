@@ -1,0 +1,9 @@
+			{
+			"groups": ["CMS Integration"],
+			"ptitle": "IIIF Server Omeka S Module",
+			"stitle": "",
+			"comment": "Omeka S module that implements the IIIF Image and Presentation APIs.",
+			"image": "",
+      "checked": "",
+			"link": "https://omeka.org/s/modules/IiifServer/"
+			}

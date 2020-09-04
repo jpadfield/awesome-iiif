@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Servers"],
+			"ptitle": "Hymir IIIF Server",
+			"stitle": "",
+			"comment": "IIIF server written in Java supporting IIIF Image and Presentation API.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/dbmdz/iiif-server-hymir"
+			}

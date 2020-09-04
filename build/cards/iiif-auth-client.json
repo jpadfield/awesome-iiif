@@ -1,0 +1,9 @@
+			{
+			"groups": ["Authentication"],
+			"ptitle": "iiif-auth-client",
+			"stitle": "",
+			"comment": "Client implementation of the IIIF Authentication specification.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/digirati-co-uk/iiif-auth-client"
+			}

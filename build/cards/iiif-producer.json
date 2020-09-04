@@ -1,0 +1,9 @@
+			{
+			"groups": ["Presentation Manifest Tools"],
+			"ptitle": "iiif-producer",
+			"stitle": "",
+			"comment": "A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS (produced by Kitodo).",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/ubleipzig/iiif-producer"
+			}

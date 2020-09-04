@@ -1,0 +1,9 @@
+			{
+			"groups": ["Examples"],
+			"ptitle": "Austrian National Library",
+			"stitle": "",
+			"comment": "provides over 850,000 IIIF resources of historical books, newspapers, postcards, pamphlets and papyri with annotations and search(soon) capabilities. Embedded Mirador and Universal Viewer can be used to view the resources. There is also the possibility to create personalized IIIF collections.",
+			"image": "",
+      "checked": "",
+			"link": "https://iiif.onb.ac.at"
+			}

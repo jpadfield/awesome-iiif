@@ -1,0 +1,9 @@
+			{
+			"groups": ["Examples"],
+			"ptitle": "FromThePage",
+			"stitle": "",
+			"comment": "ingests IIIF manifests and displays images for transcription using OpenSeaDragon.",
+			"image": "",
+      "checked": "",
+			"link": "http://www.fromthepage.com"
+			}

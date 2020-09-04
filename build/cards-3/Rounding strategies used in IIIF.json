@@ -1,0 +1,9 @@
+			{
+			"groups": ["Before October 2017"],
+			"ptitle": "Rounding strategies used in IIIF",
+			"stitle": "",
+			"comment": "blog post varying calculations of aspect ratios across IIIF clients and servers.",
+			"image": "",
+      "checked": "",
+			"link": "http://www.jack-reed.com/2016/10/14/rounding-strategies-used-in-iiif.html"
+			}

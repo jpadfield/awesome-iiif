@@ -1,0 +1,9 @@
+			{
+			"groups": ["Experiments and Fun"],
+			"ptitle": "The Transcriptinator",
+			"stitle": "",
+			"comment": "A prototype \"game\" created for use on the British Library's crowd-sourcing arcade machine. Players have to flag up errors in the OCR transcriptions of content taken from the <a href='http://www.qdl.qa'>Qatar Digital Library</a>. Created by Jon White and Tristan Roddis, Cogapp.",
+			"image": "",
+      "checked": "",
+			"link": "http://labs.cogapp.com/transcriptinator/"
+			}

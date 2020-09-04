@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Viewers"],
+			"ptitle": "IIIF Curation Viewer",
+			"stitle": "",
+			"comment": "A general IIIF viewer with added focus on curation and ordering of cropped IIIF images. <a href='http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://gist.githubusercontent.com/2SC1815J/18e1228c52a6650c64902142ed7496f8/raw/7a247b64b6e22357e83f573b7283e31f3111af68/curation_kibutsu.json&pos=4'>Demo</a>",
+			"image": "",
+      "checked": "",
+			"link": "http://codh.rois.ac.jp/software/iiif-curation-viewer/"
+			}

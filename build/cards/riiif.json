@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Servers"],
+			"ptitle": "riiif",
+			"stitle": "",
+			"comment": "Written in Ruby as a Rails engine.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/curationexperts/riiif"
+			}

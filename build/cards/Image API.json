@@ -1,0 +1,9 @@
+			{
+			"groups": ["Standards"],
+			"ptitle": "Image API",
+			"stitle": "",
+			"comment": "WWW Specifies a web service that returns an image in response to a standard HTTP or HTTPS request.",
+			"image": "",
+      "checked": "",
+			"link": "http://iiif.io/api/image/"
+			}

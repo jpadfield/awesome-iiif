@@ -1,0 +1,9 @@
+			{
+			"groups": ["Newspapers"],
+			"ptitle": "docker-open-oni",
+			"stitle": "",
+			"comment": "Docker friendly setup for open-oni, which will set up and configure the Web application as well as the MySQL, Solr and RAIS Image Server.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/open-oni/docker-open-oni"
+			}

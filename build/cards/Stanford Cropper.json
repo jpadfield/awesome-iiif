@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Tools"],
+			"ptitle": "Stanford Cropper",
+			"stitle": "",
+			"comment": "Simple image cropper.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/lizfischer/iiif-tools#cropper"
+			}

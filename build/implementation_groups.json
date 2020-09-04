@@ -1,0 +1,13 @@
+{
+  "defaultcard": "list",
+	"tableofcontents": false,
+  "displaychecked": true,
+  "list": "./cards-2/*.json",
+	"groups": {
+  "Examples": {
+			"comment": "A lightly edited list of sites that have implemented at least one of the IIIF standards.<br/><br/><b>Guidelines:</b> New additions should be placed at the end of the list. The label of the link should be the name of the site. The description should include the publisher (usually an institution), and the publisher may be a link to contact information. The description can also include information on which of the APIs have been implemented.",
+			"card": "list",
+			"config": {}
+		}
+	}
+}

@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Tools"],
+			"ptitle": "IIIF cropping tool",
+			"stitle": "",
+			"comment": "Website using <a href='https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2'>Leaflet-IIIF Cropping</a> and Jekyll that allow users to enter the URL of a IIIF image and get the URL for the cropped section of the image.",
+			"image": "",
+      "checked": "",
+			"link": "https://ncsu-libraries.github.io/iiif-crop-tool/"
+			}

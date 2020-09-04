@@ -1,0 +1,9 @@
+			{
+			"groups": ["Presentation Manifest Tools"],
+			"ptitle": "File Analyzer IIIF Manifest Generator from Existing Metadata",
+			"stitle": "",
+			"comment": "Georgetown's desktop application that will generate IIIF manifest files from existing metadata files.",
+			"image": "",
+      "checked": "",
+			"link": "http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/"
+			}

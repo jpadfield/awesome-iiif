@@ -1,0 +1,9 @@
+			{
+			"groups": ["Annotations"],
+			"ptitle": "Annona Annotation Library: iiif-annotation viewer JavaScript library",
+			"stitle": "",
+			"comment": "JavaScript library that uses custom tags and url of the annotation to load annotated image, corresponding annotations, tags, and text into HTML object or OpenSeadragon viewer with overlays. ",
+			"image": "",
+      "checked": "",
+			"link": "https://ncsu-libraries.github.io/annona/"
+			}

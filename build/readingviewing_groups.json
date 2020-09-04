@@ -1,0 +1,23 @@
+{
+  "defaultcard": "list",
+	"tableofcontents": false,
+  "displaychecked": true,
+  "list": "./cards-3/*.json",
+	"groups": {
+  "May 2018": {
+			"comment": "",
+			"card": "list",
+			"config": {}
+		},
+  "October 2017": {
+			"comment": "<i>List pulled from issues highlighted at IIIF Toronto Working Meeting.</i>",
+			"card": "list",
+			"config": {}
+		},
+  "Before October 2017": {
+			"comment": "<i>This initial set of resources was extracted from the awesome list.</i>",
+			"card": "list",
+			"config": {}
+		}
+	}
+}

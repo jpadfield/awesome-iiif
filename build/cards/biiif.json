@@ -1,0 +1,9 @@
+			{
+			"groups": ["Presentation Manifest Tools"],
+			"ptitle": "biiif",
+			"stitle": "",
+			"comment": "Organise your files according to a simple naming convention to generate IIIF v3 manifests.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/edsilv/biiif/"
+			}

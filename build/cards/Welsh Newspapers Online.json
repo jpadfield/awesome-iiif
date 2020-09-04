@@ -1,0 +1,9 @@
+			{
+			"groups": ["Newspapers"],
+			"ptitle": "Welsh Newspapers Online",
+			"stitle": "",
+			"comment": "Provides access to over 1 million newspaper pages using the IIIF Image API.",
+			"image": "",
+      "checked": "",
+			"link": "http://newspapers.library.wales/"
+			}

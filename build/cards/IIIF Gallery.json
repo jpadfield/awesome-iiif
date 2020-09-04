@@ -1,0 +1,9 @@
+			{
+			"groups": ["Experiments and Fun"],
+			"ptitle": "IIIF Gallery",
+			"stitle": "",
+			"comment": "A virtual art gallery using OpenSeadragon and custom image generation, created by Stephen Fraser, Digirati. Also see <a href='https://github.com/digirati-co-uk/iiif-gallery/'>full source code</a>.",
+			"image": "",
+      "checked": "",
+			"link": "http://digirati-co-uk.github.io/iiif-gallery/src/"
+			}

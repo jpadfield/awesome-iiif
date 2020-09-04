@@ -1,0 +1,9 @@
+			{
+			"groups": ["Presentation API Libraries"],
+			"ptitle": "IIIF Manifest Generator",
+			"stitle": "",
+			"comment": "PHP library for generating IIIF manifests.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/yale-web-technologies/IIIF-Manifest-Generator"
+			}

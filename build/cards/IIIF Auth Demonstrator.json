@@ -1,0 +1,9 @@
+			{
+			"groups": ["Authentication"],
+			"ptitle": "IIIF Auth Demonstrator",
+			"stitle": "",
+			"comment": "Manifests with accompanying images that demonstrate various IIIF authentication modes.",
+			"image": "",
+      "checked": "",
+			"link": "https://iiifauth.digtest.co.uk/"
+			}

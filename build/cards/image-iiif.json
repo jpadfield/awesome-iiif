@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image API Libraries"],
+			"ptitle": "image-iiif",
+			"stitle": "",
+			"comment": "A bring your own framework solution for implementing IIIF Image API 2.1 with PHP.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/conlect/image-iiif"
+			}

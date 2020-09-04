@@ -1,0 +1,198 @@
+			{
+			"groups": ["May 2018"],
+			"ptitle": "IIIF and the BDR",
+			"stitle": "",
+			"comment": "Blog post on the Brown University Library's implementation detais and how it integrates with the Brown Digital Repository.",
+			"image": "",
+      "checked": "",
+			"link": "https://library.brown.edu/DigitalTechnologies/iiif-and-the-bdr/"
+			},
+			{
+			"groups": ["May 2018"],
+			"ptitle": "IIIF at the Library of Congress",
+			"stitle": "",
+			"comment": "Interview by Abbey Potter with Chris Thatcher about IIIF at the Library of Congress.",
+			"image": "",
+      "checked": "",
+			"link": "https://blogs.loc.gov/thesignal/2018/05/iiif-at-the-library-of-congress/"
+			},
+			{
+			"groups": ["October 2017"],
+			"ptitle": "Discovery, Reuse, Research, and Crowdsourcing: IIIF Experiences from the National Library of Wales",
+			"stitle": "",
+			"comment": "slides by Glen Robson.",
+			"image": "",
+      "checked": "",
+			"link": "https://www.slideshare.net/GlenRobson/discovery-reuse-research-and-crowdsourcing-iiif-experiences-from-the-nlw"
+			},
+			{
+			"groups": ["October 2017"],
+			"ptitle": "Bodleian Library: Printing Errors and Corrections in the Gutenberg Bible",
+			"stitle": "",
+			"comment": "A nice example of how easy IIIF makes side-by-side viewing and comparison",
+			"image": "",
+      "checked": "",
+			"link": "http://bav.bodleian.ox.ac.uk/news/printing-errors-and-corrections-in-the-gutenberg-bible"
+			},
+			{
+			"groups": ["October 2017"],
+			"ptitle": "Store and display high resolution images with the International Image Interoperability Framework (IIIF)",
+			"stitle": "",
+			"comment": "ACRL _Tech Connect_ feature on IIIF and digital humanities",
+			"image": "",
+      "checked": "",
+			"link": "http://acrl.ala.org/techconnect/post/2016/02"
+			},
+			{
+			"groups": ["October 2017"],
+			"ptitle": "Preparing Europeana for IIIF involvement",
+			"stitle": "",
+			"comment": "Final report from Europeana task force on emerging use and utility of IIIF",
+			"image": "",
+      "checked": "",
+			"link": "https://pro.europeana.eu/project/preparing-europeana-for-iiif-involvement"
+			},
+			{
+			"groups": ["October 2017"],
+			"ptitle": "Announcement on FromthePage",
+			"stitle": "",
+			"comment": "Brumfield Labs has implemented full client-side and server-side support for IIIF in the collaborative digital edition tool FromThePage to support textual issues.",
+			"image": "",
+      "checked": "",
+			"link": "http://iiif.io/news/2017/02/17/from-the-page/"
+			},
+			{
+			"groups": ["October 2017"],
+			"ptitle": "Announcement on Pontiiif",
+			"stitle": "",
+			"comment": "Pontiiif, a cross repository search engine for IIIF manifests, created by Brumfield Labs",
+			"image": "",
+      "checked": "",
+			"link": "http://iiif.io/news/2017/02/17/pontiiif/"
+			},
+			{
+			"groups": ["October 2017"],
+			"ptitle": "IIIF – The digitized manuscripts revolution we’ve all been waiting for!",
+			"stitle": "",
+			"comment": "blog post demonstrating usage of IIIF for digital humanities",
+			"image": "",
+      "checked": "",
+			"link": "https://sexycodicology.net/blog/iiif-international-image-interoperability-framework/"
+			},
+			{
+			"groups": ["October 2017"],
+			"ptitle": "Introduction to IIIF",
+			"stitle": "",
+			"comment": "explanation and examples of what IIIF is and how it can be used by Tom Crane of Digirati",
+			"image": "",
+      "checked": "",
+			"link": "http://resources.digirati.com/iiif/an-introduction-to-iiif/"
+			},
+			{
+			"groups": ["October 2017"],
+			"ptitle": "Digitized Manuscripts Presentation",
+			"stitle": "",
+			"comment": "IIIF session at Coalition of Networked Information, December 2016",
+			"image": "",
+      "checked": "",
+			"link": "https://www.youtube.com/watch?v=YMt3I2QBJI0&feature=youtu.be"
+			},
+			{
+			"groups": ["October 2017"],
+			"ptitle": "Discovery, Reuse, Research, and Crowdsourcing",
+			"stitle": "",
+			"comment": "Presentation slides by Glen Robson demonstrating crowdsourcing of OCR correction and tagging with annotations and IIIF",
+			"image": "",
+      "checked": "",
+			"link": "https://www.slideshare.net/GlenRobson/discovery-reuse-research-and-crowdsourcing-iiif-experiences-from-the-nlw"
+			},
+			{
+			"groups": ["October 2017"],
+			"ptitle": "But Where's my model?",
+			"stitle": "",
+			"comment": "article by Tom Crane, Digrati, clarifying the relation between the Presentation API and existing descriptive metadata models",
+			"image": "",
+      "checked": "",
+			"link": "http://resources.digirati.com/iiif/an-introduction-to-iiif/wheres-my-model.html"
+			},
+			{
+			"groups": ["October 2017"],
+			"ptitle": "Introduction to IIIF at TCDL 2017",
+			"stitle": "",
+			"comment": "blog synoposis for introduction to IIIF for manuscripts from panel at Texas Conference on Digital Libraries (TCDL) by Ben Brumfield",
+			"image": "",
+      "checked": "",
+			"link": "http://content.fromthepage.com/iiif-at-tcdl-2017/"
+			},
+			{
+			"groups": ["Before October 2017"],
+			"ptitle": "Zoom in to 9.3 Million Internet Archive Books and Images - through IIIF",
+			"stitle": "",
+			"comment": "blog on the Internet Archive's adoption of IIIF.",
+			"image": "",
+      "checked": "",
+			"link": "https://blog.archive.org/2015/10/23/zoom-in-to-9-3-million-internet-archive-books-and-images-through-iiif/"
+			},
+			{
+			"groups": ["Before October 2017"],
+			"ptitle": "IIIF support for the Qatar Digital Library",
+			"stitle": "",
+			"comment": "",
+			"image": "",
+      "checked": "",
+			"link": "http://www.cogapp.com/blog/iiif-support-qatar-digital-library"
+			},
+			{
+			"groups": ["Before October 2017"],
+			"ptitle": "Comprendre IIIF et l’interopérabilité des bibliothèques numériques",
+			"stitle": "",
+			"comment": "blog post giving an overview of IIIF, in French.",
+			"image": "",
+      "checked": "",
+			"link": "https://insula.univ-lille3.fr/blog/2016/11/comprendre-iiif-interoperabilite-bibliotheques-numeriques/"
+			},
+			{
+			"groups": ["Before October 2017"],
+			"ptitle": "Rounding strategies used in IIIF",
+			"stitle": "",
+			"comment": "blog post varying calculations of aspect ratios across IIIF clients and servers.",
+			"image": "",
+      "checked": "",
+			"link": "http://www.jack-reed.com/2016/10/14/rounding-strategies-used-in-iiif.html"
+			},
+			{
+			"groups": ["Before October 2017"],
+			"ptitle": "Europeana aligns with the International Image Interoperability Framework",
+			"stitle": "",
+			"comment": "announcing Europeana's interest in IIIF, and an <a href='http://pro.europeana.eu/blogpost/europeana-and-iiif-update-oct-2016'>update</a> on progress.",
+			"image": "",
+      "checked": "",
+			"link": "http://pro.europeana.eu/blogpost/europeana-aligns-with-the-international-image-interoperability-framework-iiif"
+			},
+			{
+			"groups": ["Before October 2017"],
+			"ptitle": "There's a new viewer for digitised items in the British Library's collections",
+			"stitle": "",
+			"comment": "announcement on implementation of the Universal Viewer.",
+			"image": "",
+      "checked": "",
+			"link": "http://blogs.bl.uk/digital-scholarship/2016/12/new-viewer-digitised-collections-british-library.html"
+			},
+			{
+			"groups": ["Before October 2017"],
+			"ptitle": "The International Image Interoperability Framework (IIIF): A community & technology approach for web-based images",
+			"stitle": "",
+			"comment": "paper published for the 2015 Archiving Conference in Los Angeles, CA",
+			"image": "",
+      "checked": "",
+			"link": "https://purl.stanford.edu/df650pk4327"
+			},
+			{
+			"groups": ["Before October 2017"],
+			"ptitle": "An Introduction to IIIF",
+			"stitle": "",
+			"comment": "blog by Digirati explaining the components and benefits of IIIF, aimed at a non-technical audience. An update of<a href=' https://docs.google.com/document/d/1a2axqqGkjwMYc4rc5hnjM6FMm9WIhKAT3OX6W5ul988.'> https://docs.google.com/document/d/1a2axqqGkjwMYc4rc5hnjM6FMm9WIhKAT3OX6W5ul988.</a>",
+			"image": "",
+      "checked": "",
+			"link": "http://resources.digirati.com/iiif/an-introduction-to-iiif/"
+			}

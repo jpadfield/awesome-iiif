@@ -1,0 +1,9 @@
+			{
+			"groups": ["Newspapers"],
+			"ptitle": "ndnp_iiif",
+			"stitle": "",
+			"comment": "Python program for turning <a href='https://www.loc.gov/ndnp/'>National Digital Newspaper Program data</a> into static IIIF JSON that is ready for mounting on the Web.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/umd-mith/ndnp_iiif"
+			}

@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image API Libraries"],
+			"ptitle": "piffle",
+			"stitle": "",
+			"comment": "Python library for generating and parsing IIIF Image API URLs.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/emory-lits-labs/piffle"
+			}

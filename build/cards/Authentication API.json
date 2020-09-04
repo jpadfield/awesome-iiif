@@ -1,0 +1,9 @@
+			{
+			"groups": ["Standards"],
+			"ptitle": "Authentication API",
+			"stitle": "",
+			"comment": "Describes a set of workflows for guiding the user through an existing access control system.",
+			"image": "",
+      "checked": "",
+			"link": "http://iiif.io/api/auth/"
+			}

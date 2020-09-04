@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Servers"],
+			"ptitle": "iiif_s3",
+			"stitle": "",
+			"comment": "Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/cmoa/iiif_s3"
+			}

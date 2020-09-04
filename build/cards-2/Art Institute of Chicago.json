@@ -1,0 +1,9 @@
+			{
+			"groups": ["Examples"],
+			"ptitle": "Art Institute of Chicago",
+			"stitle": "",
+			"comment": "presents over 100,000 artworks on the website via the IIIF image API. Using OpenSeadragon, users can zoom in and explore object images, subject to copyright restrictions. A custom Mirador 2 implementation is also used in the galleries.",
+			"image": "",
+      "checked": "",
+			"link": "https://www.artic.edu/"
+			}

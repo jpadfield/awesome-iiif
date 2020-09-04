@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Viewers"],
+			"ptitle": "Leaflet-IIIF",
+			"stitle": "",
+			"comment": "Lightweight, extensible IIIF image viewer.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/mejackreed/Leaflet-IIIF"
+			}

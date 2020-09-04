@@ -1,0 +1,9 @@
+			{
+			"groups": ["Newspapers"],
+			"ptitle": "Populating the Annotation Store with IIIF Annotation List",
+			"stitle": "",
+			"comment": "Provides instructions on how to edit OCR text using annotations in Mirador.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/glenrobson/SimpleAnnotationServer/blob/master/doc/PopulatingAnnotations.md"
+			}

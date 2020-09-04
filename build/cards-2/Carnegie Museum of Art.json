@@ -1,0 +1,9 @@
+			{
+			"groups": ["Examples"],
+			"ptitle": "Carnegie Museum of Art",
+			"stitle": "",
+			"comment": "utilizes the IIIF Image API level 0 for static files, with links to manifests provided on object pages, using an OpenSeadragon client and Amazon S3 to store images. See example <a href='https://cmoa-records-images.s3.amazonaws.com/collection/top.json'>collection manifest</a> and <a href='http://cmoa-records-images.s3.amazonaws.com/fv001_001_003_001_B014_F05_002/manifest.json'>object manifest</a>, as well as <a href='https://github.com/cmoa/iiif_s3'>implementation code documentation</a>.",
+			"image": "",
+      "checked": "",
+			"link": "http://cmoa.org/about/"
+			}

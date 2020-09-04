@@ -1,0 +1,9 @@
+			{
+			"groups": ["Authentication"],
+			"ptitle": "iiif-image-auth",
+			"stitle": "",
+			"comment": "A simple server implementation based on Docker and Flask.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/robcast/iiif-image-auth"
+			}

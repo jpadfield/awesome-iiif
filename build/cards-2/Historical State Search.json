@@ -1,0 +1,9 @@
+			{
+			"groups": ["Examples"],
+			"ptitle": "Historical State Search",
+			"stitle": "",
+			"comment": "displays images via a IIIF image server.",
+			"image": "",
+      "checked": "",
+			"link": "http://historicalstate.lib.ncsu.edu/search"
+			}

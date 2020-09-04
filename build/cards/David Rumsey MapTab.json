@@ -1,0 +1,9 @@
+			{
+			"groups": ["Experiments and Fun"],
+			"ptitle": "David Rumsey MapTab",
+			"stitle": "",
+			"comment": "A IIIF powered, Chrome extension that displays a random map from the David Rumsey Map Collection everytime you open a new tab in your browser. Built using Leaflet-IIIF and React.js. Created by Jack Reed, Stanford University Libraries.",
+			"image": "",
+      "checked": "",
+			"link": "https://chrome.google.com/webstore/detail/david-rumsey-map-collecti/fnheacjohhlddiffbmafmpoblbkfgmde?hl=en"
+			}

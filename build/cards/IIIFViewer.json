@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Viewers"],
+			"ptitle": "IIIFViewer",
+			"stitle": "",
+			"comment": "IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/klokantech/iiifviewer"
+			}

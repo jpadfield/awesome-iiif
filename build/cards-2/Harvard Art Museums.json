@@ -1,0 +1,9 @@
+			{
+			"groups": ["Examples"],
+			"ptitle": "Harvard Art Museums",
+			"stitle": "",
+			"comment": "serves over 200,000 images via the IIIF Image and Presentation APIs, using Mirador. See <a href='http://www.harvardartmuseums.org/tour/drawing-the-invention-of-a-modern-medium/slide/8568'>example item</a> and <a href='http://iiif.harvardartmuseums.org/manifests/object/299843'>example manifest</a>.",
+			"image": "",
+      "checked": "",
+			"link": "http://www.harvardartmuseums.org/"
+			}

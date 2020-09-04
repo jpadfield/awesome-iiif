@@ -1,0 +1,9 @@
+			{
+			"groups": ["Discovery|Import to Viewers"],
+			"ptitle": "Open in IIIF Viewer",
+			"stitle": "",
+			"comment": "A web browser extension to open IIIF manifest link in your favorite IIIF viewer. ",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/2SC1815J/open-in-iiif-viewer"
+			}

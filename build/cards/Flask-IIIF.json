@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Server Shims"],
+			"ptitle": "Flask-IIIF",
+			"stitle": "",
+			"comment": "Flask extension to support IIIF in Python/Flask applications. See <a href='http://flask-iiif.herokuapp.com/previewer'>Flask-IIIF previewer demo</a> and <a href='http://flask-iiif.herokuapp.com/restful'>Flask-IIIF RESTful demo</a>.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/inveniosoftware/flask-iiif"
+			}

@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image API Libraries"],
+			"ptitle": "iiif",
+			"stitle": "",
+			"comment": "Python library providing a reference implementation of the Image API. Also includes a test server and static tile generator.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/zimeon/iiif"
+			}

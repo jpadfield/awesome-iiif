@@ -1,0 +1,9 @@
+			{
+			"groups": ["Content Search API"],
+			"ptitle": "Ocracoke",
+			"stitle": "",
+			"comment": "Rails application to create, index, and search text from page images and provide results in IIIF Content Search API format.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/NCSU-Libraries/ocracoke"
+			}

@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Viewers"],
+			"ptitle": "Scalebar Plugin",
+			"stitle": "",
+			"comment": "OpenSeadragon plugin for physical scale overlay.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/NIST-ISG/OpenSeadragonScalebar"
+			}

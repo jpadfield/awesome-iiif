@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Viewers"],
+			"ptitle": "OpenSeadragon",
+			"stitle": "",
+			"comment": "IIIF tile support.",
+			"image": "",
+      "checked": "",
+			"link": "https://openseadragon.github.io/examples/tilesource-iiif/"
+			}

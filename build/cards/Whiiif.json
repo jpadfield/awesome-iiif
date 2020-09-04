@@ -1,0 +1,9 @@
+			{
+			"groups": ["Content Search API"],
+			"ptitle": "Whiiif",
+			"stitle": "",
+			"comment": "Python/Flask/Solr application to index IIIF manifests alongside ALTO representations and provide a IIIF Content Search API endpoint.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/mbennett-uoe/whiiif"
+			}

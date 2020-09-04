@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image API Libraries"],
+			"ptitle": "libvips",
+			"stitle": "",
+			"comment": "A fast image processing library with low memory needs. Includes an operation that can build image pyramids compatible with IIIF Image API.",
+			"image": "",
+      "checked": "",
+			"link": "https://libvips.github.io/libvips/"
+			}

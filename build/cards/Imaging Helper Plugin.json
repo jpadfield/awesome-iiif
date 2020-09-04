@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Viewers"],
+			"ptitle": "Imaging Helper Plugin",
+			"stitle": "",
+			"comment": "OpenSeadragon plugin with utility functions.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/msalsbery/OpenSeadragonImagingHelper"
+			}

@@ -30,13 +30,29 @@ function extensionCards ($d, $pd)
 		
 	if (isset($d["file"]) and file_exists($d["file"]))
 		{
+    //$d["file"] = "./awsomelist_groupsfull.json";
 		$dets = getRemoteJsonDetails($d["file"], false, true);
 
     if (isset($dets["defaultcard"]))
       {$defaultcard = $dets["defaultcard"];}
       
     if (isset($dets["displaychecked"]))
-      {$displaychecked = $dets["displaychecked"];}      
+      {$displaychecked = $dets["displaychecked"];}
+
+    if (!isset($dets["list"]))
+      {$dets["list"] = array();}
+
+    // If a path to json files is provided they need to be loaded into an array
+    if (!is_array($dets["list"] ))
+      {
+      $lfs = glob($dets["list"]);
+      $dets["list"] = array();
+      foreach($lfs as $file){
+        $ja = getRemoteJsonDetails($file, false, true);
+        if ($ja) {$dets["list"][] = $ja;}}
+      }
+
+    //prg(1, $dets);
 		
 		foreach ($dets["list"] as $lno => $la)
 			{
@@ -268,7 +284,7 @@ END;
       if (isset($la["checked"]) and $la["checked"])
         {$checked = "<span style=\"font-size:0.75em\">  ( last checked ".$la["checked"]." )</span>";}
       else
-        {$checked = "<spanstyle=\"font-size:0.75em\">  ( no checked date )</span>";}
+        {$checked = "<span style=\"font-size:0.75em\">  ( no checked date )</span>";}
       }
     else
       {$checked = "";}

@@ -1,0 +1,9 @@
+			{
+			"groups": ["Annotations|Annotation Clients"],
+			"ptitle": "IIIF Annotation Studio",
+			"stitle": "",
+			"comment": "Mirador Viewer packaged as a desktop app (macos, linux) with an embedded annotation endpoint that saves annotations to a local sqlite database.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/atomotic/iiif-annotation-studio"
+			}

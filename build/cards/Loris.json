@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Servers"],
+			"ptitle": "Loris",
+			"stitle": "",
+			"comment": "Written in Python.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/loris-imageserver/loris"
+			}

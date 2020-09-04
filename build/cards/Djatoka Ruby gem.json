@@ -1,0 +1,9 @@
+			{
+			"groups": ["Image Server Shims"],
+			"ptitle": "Djatoka Ruby gem",
+			"stitle": "",
+			"comment": "Convert IIIF URLs into the URLs that Djatoka requires.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/jronallo/djatoka"
+			}

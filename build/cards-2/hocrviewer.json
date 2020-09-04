@@ -1,0 +1,9 @@
+			{
+			"groups": ["Examples"],
+			"ptitle": "hocrviewer",
+			"stitle": "",
+			"comment": "can display and search OCRed documents in the <a href='http://kba.github.io/hocr-spec/1.2/'>hOCR format</a> with Mirador. Contains a simple implementation of the Content Search API with SQLite.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/jbaiter/hocrviewer-mirador"
+			}

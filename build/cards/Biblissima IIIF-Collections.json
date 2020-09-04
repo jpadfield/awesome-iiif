@@ -1,0 +1,9 @@
+			{
+			"groups": ["Discovery"],
+			"ptitle": "Biblissima IIIF-Collections",
+			"stitle": "",
+			"comment": "Prototype application that allows you to search across IIIF-compliant manuscripts and rare books dated before 1800. ",
+			"image": "",
+      "checked": "",
+			"link": "https://iiif.biblissima.fr/collections/"
+			}

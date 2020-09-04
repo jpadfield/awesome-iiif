@@ -1,0 +1,9 @@
+			{
+			"groups": ["Annotations|Annotation Servers"],
+			"ptitle": "Elucidate",
+			"stitle": "",
+			"comment": "Java and Postgres annotation server.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/dlcs/elucidate-server"
+			}

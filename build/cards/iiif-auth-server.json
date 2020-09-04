@@ -1,0 +1,9 @@
+			{
+			"groups": ["Authentication"],
+			"ptitle": "iiif-auth-server",
+			"stitle": "",
+			"comment": "A demo server implementation of all apsects of the IIIF Authentication specification.",
+			"image": "",
+      "checked": "",
+			"link": "https://github.com/digirati-co-uk/iiif-auth-server"
+			}
